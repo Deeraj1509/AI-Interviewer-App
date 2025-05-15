@@ -1,0 +1,15 @@
+AI_Interviewer_App/
+│
+├── app.py                   # Main application file that runs the Streamlit interface
+│
+├── feedback/                # Contains generated scorecards and certificates
+│   └── ...                  # PDF or image files of feedback and certificates
+│
+├── logs/                    # Stores logs of user sessions and interview activities
+│   └── ...                  # Log files with timestamps and session details
+│
+├── transcripts/             # Saves transcribed text from voice input
+│   └── ...                  # Text files of transcriptions for each interview
+│
+├── whispher/                # Contains the Whisper model files and related utilities
+│   └── ...                  # Model weights and configuration files
