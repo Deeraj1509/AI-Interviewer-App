@@ -1,0 +1,8 @@
+Q: Here's a challenging technical interview question related to Python:
+
+**Question:** 
+
+In Python, when using a metaclass to create a class, what are the implications of using a metaclass that inherits from `type` versus one that doesn't, in terms of the class creation process, attribute lookup, and method resolution order? How might these implications affect the design and behavior of a class hierarchy, particularly in cases where multiple metaclasses are involved or when working with third-party libraries that also utilize metaclasses?
+
+This question assesses the candidate's understanding of Python's meta-programming capabilities, class creation mechanisms, and the potential consequences of using metaclasses in complex class hierarchies. It requires the candidate to demonstrate their knowledge of theoretical concepts and design principles, rather than coding ability.
+A: hi
